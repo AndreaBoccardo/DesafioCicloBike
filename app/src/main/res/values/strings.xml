@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DesafioCicloBike</string>
+    <string name="invertir_orden">Invertir Orden</string>
+    <string name="filtrar_texto">Filtrar Texto</string>
+    <string name="filtrar_nombre_ciclovia">Filtrar Nombre</string>
+    <string name="filtrar_por_caracteres_de_comuna">Filtrar Comuna</string>
+    <string name="filtrar_numero_ciclovia">Filtrar Número</string>
+    <string name="filtro">Filtro</string>
+</resources>
